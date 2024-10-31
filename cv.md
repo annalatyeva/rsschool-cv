@@ -18,3 +18,13 @@ I have experience in customer service, education, and Frontend development cours
 + JS
 + React
 + Git
+
+## Code Examples:
+```
+// Вычислить сумму чисел от 1 до 100 и вывести значение в консоль
+let sum = 0;
+for (let i = 1; i <= 100; i++) {
+  sum += i;
+}
+console.log(sum);
+```
